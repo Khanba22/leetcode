@@ -1,0 +1,236 @@
+[
+    {
+        "title": " Selected\n Members",
+        "tags": [],
+        "bgColorStyle": {
+            "background": "linear-gradient(135deg, #1f005c, #35005e, #5f0060, #8f0860, #bc365d, #dd635c, #f28c5f, #fcaa67, #ffb56b)"
+        },
+        "members": [
+            {
+                "name": "Aakarsh Verma",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/profiles/results/AakarshVerma.jpg"
+            },
+            {
+                "name": "Aayush Tirmanwar",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/profiles/results/AayushTirmanwar.jpg"
+            },
+            {
+                "name": "Aditya Pande",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/profiles/results/AdityaPande.jpeg"
+            },
+            {
+                "name": "Akshata Katole",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/profiles/results/AkshataKatole.jpg"
+            },
+            {
+                "name": "Anas Khan",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/profiles/results/AnasKhan.jpg"
+            },
+            {
+                "name": "Anish Pujari",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/profiles/results/AnishPujari.jpg"
+            },
+            {
+                "name": "Aryan Varma",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/profiles/results/AryanVarma.jpg"
+            },
+            {
+                "name": "Ayush Gote",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/profiles/results/AyushGote.JPG"
+            }         
+        ]
+    },
+    {
+        "title": " Selected\n Members",
+        "tags": [],
+        "bgColorStyle": {
+            "background": "linear-gradient(135deg, #1f005c, #35005e, #5f0060, #8f0860, #bc365d, #dd635c, #f28c5f, #fcaa67, #ffb56b)"
+        },
+        "members": [
+            {
+                "name": "Chaitanya Zunzurkar",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/profiles/results/ChaitanyaZunzurkar.jpg"
+            },
+            {
+                "name": "Devansh Dua",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/profiles/results/Devansh.jpg"
+            },
+            {
+                "name": "Divya Ruthiya",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/profiles/results/DivyaRuthiya.jpg"
+            },
+            {
+                "name": "Harshit Sahu",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/profiles/results/HarshitSahu.jpg"
+            },
+            {
+                "name": "Isha Ahuja",
+                "Section": "",
+                "alt" : "results",
+                "profilePic" : "/profiles/results/IshaAhuja.jpg"
+            },
+            {
+                "name": "Kartik Suchak",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/profiles/results/KartikSuchak.jpg"
+            },
+            {
+                "name": "Kshirin Modi",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/profiles/results/KshirinModi.jpg"
+            },
+            {
+                "name": "Jessica Sajwani",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/profiles/results/JessicaSajwani.jpg"
+            },
+            {
+                "name": "Jay Gupta",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
+            }           
+        ]
+    },
+    {
+        "title": " Selected\n Members",
+        "tags": [],
+        "bgColorStyle": {
+            "background": "linear-gradient(135deg, #1f005c, #35005e, #5f0060, #8f0860, #bc365d, #dd635c, #f28c5f, #fcaa67, #ffb56b)"
+        },
+        "members": [
+            {
+                "name": "Lavanya Chawla",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/profiles/results/LavanyaChawla.jpeg"
+            },
+            {
+                "name": "Mandar Gurjar",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/profiles/results/MandarGurjar.jpg"
+            },
+            {
+                "name": "Mohammad Adnan Dalal",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/profiles/results/AdnanDalal.jpeg"
+            },
+            {
+                "name": "Musrat Khan",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/profiles/results/MusratKhan.jpg"
+            },
+            {
+                "name": "Om Chillure",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/profiles/results/OmChillure.jpg"
+            },
+            {
+                "name": "Palak Agrawal",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/profiles/results/PalakAgrawal.jpeg"
+            },
+            {
+                "name": "Palak Khanduri",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/profiles/results/PalakKhanduri.jpg"
+            },
+            {
+                "name": "Prajakta Tiwari",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
+            }            
+        ]
+    },
+    {
+        "title": " Selected\n Members",
+        "tags": [],
+        "bgColorStyle": {
+            "background": "linear-gradient(135deg, #1f005c, #35005e, #5f0060, #8f0860, #bc365d, #dd635c, #f28c5f, #fcaa67, #ffb56b)"
+        },
+        "members": [
+            {
+                "name": "Ranveer Virkhare",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/profiles/results/RanveerVirkhare.jpeg"
+            },
+            {
+                "name": "Rohan Keshkar",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/profiles/results/RohanKeshkar.jpg"
+            },
+            {
+                "name": "Sakshi Mude",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/profiles/results/SakshiMude.jpg"
+            },
+            {
+                "name": "Sarthak Gajbhiye",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/profiles/results/SarthakGajbhiye.jpeg"
+            },
+            {
+                "name": "Swanand Kulkarni",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/profiles/results/SwanandKulkarni.jpeg"
+            },
+            {
+                "name": "Tejas Singh",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/profiles/results/TejasSingh.jpeg"
+            },
+            {
+                "name": "Tejas Tatode",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/profiles/results/TEJASTATODE.jpg"
+            },
+            {
+                "name": "Varada Kulkarni",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/profiles/results/VaradaKulkarni.jpg"
+            }
+        ]
+    }
+]
