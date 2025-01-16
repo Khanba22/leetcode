@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0228-summary-ranges](https://github.com/Khanba22/leetcode/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/Khanba22/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/Khanba22/leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Linked List
 |  |
 | ------- |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Khanba22/leetcode/tree/master/0292-nim-game) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Khanba22/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Khanba22/leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
