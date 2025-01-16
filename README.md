@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Khanba22/leetcode/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/Khanba22/leetcode/tree/master/0292-nim-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Khanba22/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Khanba22/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Khanba22/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
