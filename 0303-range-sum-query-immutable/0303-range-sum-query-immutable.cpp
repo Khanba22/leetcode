@@ -8,7 +8,6 @@ public:
         for(int i = 0;i < nums.size();i++){
             sum+=nums[i];
             sums.push_back(sum);
-            cout << sum << " ";
         }
     }
     
