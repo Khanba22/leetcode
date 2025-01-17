@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/Khanba22/leetcode/tree/master/0061-rotate-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Khanba22/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [1484-linked-list-in-binary-tree](https://github.com/Khanba22/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -81,4 +82,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Khanba22/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Tree
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/Khanba22/leetcode/tree/master/1484-linked-list-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/Khanba22/leetcode/tree/master/1484-linked-list-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/Khanba22/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 <!---LeetCode Topics End-->
