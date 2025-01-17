@@ -4,8 +4,7 @@ public:
         vector<int>r(n,0);
         int power = 1;
         int i = 0;
-        while(true){
-            if(r[i]) break;
+        while(!r[i]){
             r[i]++;
             i = (i + power*k) % n;
             power++;
