@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Khanba22/leetcode/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Khanba22/leetcode/tree/master/0057-insert-interval) |
 | [0228-summary-ranges](https://github.com/Khanba22/leetcode/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/Khanba22/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Khanba22/leetcode/tree/master/0303-range-sum-query-immutable) |
