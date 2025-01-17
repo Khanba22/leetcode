@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Khanba22/leetcode/tree/master/0055-jump-game) |
 | [0228-summary-ranges](https://github.com/Khanba22/leetcode/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/Khanba22/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Khanba22/leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Khanba22/leetcode/tree/master/0055-jump-game) |
 | [0279-perfect-squares](https://github.com/Khanba22/leetcode/tree/master/0279-perfect-squares) |
 ## Breadth-First Search
 |  |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Khanba22/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Khanba22/leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
