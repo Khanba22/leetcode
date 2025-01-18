@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Khanba22/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Khanba22/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Khanba22/leetcode/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/Khanba22/leetcode/tree/master/0068-text-justification) |
 | [0228-summary-ranges](https://github.com/Khanba22/leetcode/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/Khanba22/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Khanba22/leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -86,11 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Khanba22/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/Khanba22/leetcode/tree/master/0068-text-justification) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/Khanba22/leetcode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Khanba22/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## String
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Khanba22/leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Khanba22/leetcode/tree/master/0071-simplify-path) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Khanba22/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
