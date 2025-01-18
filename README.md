@@ -89,10 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Khanba22/leetcode/tree/master/0071-simplify-path) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Khanba22/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Khanba22/leetcode/tree/master/0071-simplify-path) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Khanba22/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
 |  |
