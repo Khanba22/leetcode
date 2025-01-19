@@ -1,7 +1,7 @@
 class Solution {
 public:
     void helper(vector<int>& nums, vector<int>& used, vector<vector<int>>& res,
-                int currSize, vector<int> perm) {
+                int currSize, vector<int>&perm) {
         if (currSize == nums.size())
             res.push_back(perm);
         for(int i = 0;i < nums.size();i++){
