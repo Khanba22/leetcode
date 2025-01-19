@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Khanba22/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Khanba22/leetcode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/Khanba22/leetcode/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/Khanba22/leetcode/tree/master/0079-word-search) |
 | [0228-summary-ranges](https://github.com/Khanba22/leetcode/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/Khanba22/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Khanba22/leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0068-text-justification](https://github.com/Khanba22/leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Khanba22/leetcode/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/Khanba22/leetcode/tree/master/0079-word-search) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Khanba22/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Khanba22/leetcode/tree/master/0079-word-search) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Khanba22/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1484-linked-list-in-binary-tree](https://github.com/Khanba22/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Khanba22/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Khanba22/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Khanba22/leetcode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Khanba22/leetcode/tree/master/0079-word-search) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Khanba22/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Combinatorics
 |  |
@@ -146,4 +150,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/Khanba22/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Khanba22/leetcode/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/Khanba22/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
