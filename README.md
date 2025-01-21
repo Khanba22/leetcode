@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Khanba22/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Khanba22/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2145-grid-game](https://github.com/Khanba22/leetcode/tree/master/2145-grid-game) |
 ## Greedy
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Khanba22/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Khanba22/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0742-to-lower-case](https://github.com/Khanba22/leetcode/tree/master/0742-to-lower-case) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Khanba22/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Khanba22/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
