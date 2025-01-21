@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Khanba22/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Khanba22/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Khanba22/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2145-grid-game](https://github.com/Khanba22/leetcode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Khanba22/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/Khanba22/leetcode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [2792-neighboring-bitwise-xor](https://github.com/Khanba22/leetcode/tree/master/2792-neighboring-bitwise-xor) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Khanba22/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [2145-grid-game](https://github.com/Khanba22/leetcode/tree/master/2145-grid-game) |
 ## Greedy
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Khanba22/leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Khanba22/leetcode/tree/master/0079-word-search) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Khanba22/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2145-grid-game](https://github.com/Khanba22/leetcode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Khanba22/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Combinatorics
 |  |
