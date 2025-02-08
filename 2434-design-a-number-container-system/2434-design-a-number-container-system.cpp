@@ -1,7 +1,7 @@
 class NumberContainers {
 public:
-    map<int,int>indextoval;
-    map<int, priority_queue<int, vector<int>, greater<int>>> res;
+    unordered_map<int,int>indextoval;
+    unordered_map<int, priority_queue<int, vector<int>, greater<int>>> res;
 
     void change(int index, int number) {
         if(indextoval.find(index)!=indextoval.end()){
