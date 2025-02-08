@@ -4,7 +4,7 @@ public:
     unordered_map<int, priority_queue<int, vector<int>, greater<int>>> res;
 
     void change(int index, int number) {
-        if(indextoval.find(index)!=indextoval.end()){
+        if(indextoval.count(index)){
             int prev = indextoval[index];
             if(prev == number) return;
         }
