@@ -1,37 +1,17 @@
 class Solution {
 public:
-    int getDigitSum(int num) {
-        int sum = 0;
-        while (num) {
-            sum += num % 10;
-            num /= 10;
-        }
-        return sum;
-    }
-
     int maximumSum(vector<int>& nums) {
-        map<int, pair<int, int>> sumMap; 
-        int maxSum = -1;
-
-        for (int num : nums) {
-            int s = getDigitSum(num);
-
-            auto& [first, second] = sumMap[s]; 
-
-            if (num >= first) {
-                second = first;
-                first = num;
-            } else if (num > second) {
-                second = num;
+        int max[82] = {0};
+        int ans = -1;
+        for (int x : nums) {
+            int sum = 0, temp = x;
+            while (temp != 0) {
+                sum += temp % 10;
+                temp /= 10;
             }
+            if (max[sum] != 0) ans = std::max(ans, x + max[sum]);
+            max[sum] = std::max(max[sum], x);
         }
-
-        for (const auto& [key, value] : sumMap) {
-            if (value.second != 0) {
-                maxSum = max(maxSum, value.first + value.second);
-            }
-        }
-
-        return maxSum;
+        return ans;
     }
 };
