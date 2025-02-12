@@ -10,7 +10,7 @@ public:
     }
 
     int maximumSum(vector<int>& nums) {
-        unordered_map<int, pair<int, int>> sumMap; 
+        map<int, pair<int, int>> sumMap; 
         int maxSum = -1;
 
         for (int num : nums) {
