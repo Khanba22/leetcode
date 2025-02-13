@@ -23,7 +23,7 @@ public:
     void helper(Node *root,vector<int>&res){
         if(root == nullptr) return;
         res.push_back(root->val);
-        for(auto &i:root->children){
+        for(Node* &i:root->children){
             helper(i,res);
         }
     }
