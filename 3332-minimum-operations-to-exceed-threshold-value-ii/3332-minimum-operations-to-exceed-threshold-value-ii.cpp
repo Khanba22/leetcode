@@ -2,12 +2,8 @@ class Solution {
 public:
     int minOperations(vector<int>& nums, int k) {
         priority_queue<long long, vector<long long>, greater<long long>> heap;
-        int minNo = INT_MAX;
-        for (int num : nums) {
-            // if (num < k)
+        for (int &num : nums) {
                 heap.push(num);
-            // else
-                // minNo = min(minNo,num);
         }
         int res = 0;
         while (!heap.empty() && heap.top() < k) {
