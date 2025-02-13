@@ -6,8 +6,7 @@ public:
                 heap.push(num);
         }
         int res = 0;
-        while (!heap.empty() && heap.top() < k) {
-            if (heap.size() < 2) break;
+        while (heap.top() < k) {
             long long x = heap.top(); 
             heap.pop();
             long long y = heap.top(); 
