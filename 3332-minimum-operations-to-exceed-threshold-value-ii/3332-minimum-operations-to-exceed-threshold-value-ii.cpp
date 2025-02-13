@@ -1,9 +1,9 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums, int k) {
-        priority_queue<long long, vector<long long>, greater<long long>> heap;
+        priority_queue<long long int, vector<long long int>, greater<long long int>> heap;
         for (int &num : nums) {
-                heap.push(num);
+            heap.push(num);
         }
         int res = 0;
         while (heap.top() < k) {
