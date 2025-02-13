@@ -23,8 +23,8 @@ public:
     void helper(Node *root,vector<int>&res){
         if(root == nullptr) return;
         res.push_back(root->val);
-        for(int i = 0;i < root->children.size();i++){
-            helper(root->children[i],res);
+        for(auto &i:root->children){
+            helper(i,res);
         }
     }
     vector<int> preorder(Node* root) {
