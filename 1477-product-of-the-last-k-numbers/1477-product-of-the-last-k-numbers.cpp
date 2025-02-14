@@ -17,8 +17,9 @@ public:
 
     int getProduct(int k) {
         int n = list.size();
+        int t = list.back();
         if (n < k) return 0;
-        if (n == k) return list.back();
-        return list.back() / list[n - k - 1];
+        if (n == k) return t;
+        return t / list[n - k - 1];
     }
 };
