@@ -10,8 +10,7 @@ public:
             list = {};
             prod = 1;
         } else {
-            prod *= num;
-            list.push_back(prod);
+            list.push_back(prod *= num);
         }
     }
 
