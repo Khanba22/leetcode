@@ -7,7 +7,7 @@ public:
 
     void add(int num) {
         if (num == 0) {
-            list.clear();
+            list = {};
             prod = 1;
         } else {
             prod *= num;
