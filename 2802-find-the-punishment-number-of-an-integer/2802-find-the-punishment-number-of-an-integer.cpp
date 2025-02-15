@@ -1,10 +1,5 @@
 class Solution {
 public:
-    bool hasValidPartition(int n) {
-        string s = to_string(n * n); 
-        return checkPartition(s, 0, 0, n);
-    }
-
     bool checkPartition(string &s, int index, int sum, int target) {
         if (index == s.size()) {
             return sum == target;
@@ -23,7 +18,8 @@ public:
     int punishmentNumber(int n) {
         int sum = 0;
         for (int i = 1; i <= n; i++) {
-            if (hasValidPartition(i)) {
+            string s = to_string(i*i);
+            if (checkPartition(s, 0, 0, i)) {
                 sum += i * i;
             }
         }
