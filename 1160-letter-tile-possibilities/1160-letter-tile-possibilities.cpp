@@ -11,6 +11,7 @@ public:
         for (char c : tiles) freq[c - 'A']++;
         return backtrack(freq);
     }
+
     int backtrack(vector<int>& freq) {
         int count = 0;
         for (int i = 0; i < 26; i++) {
