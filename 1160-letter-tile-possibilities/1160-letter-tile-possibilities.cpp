@@ -7,7 +7,7 @@ class Solution {
 public:
     int numTilePossibilities(string tiles) {
         vector<int> freq(26);
-        for (char &c : tiles)
+        for (char c : tiles)
             freq[c - 65]++;
 
         return backtrack(freq, tiles.size());
