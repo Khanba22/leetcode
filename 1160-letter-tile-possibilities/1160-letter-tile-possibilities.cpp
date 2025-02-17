@@ -17,9 +17,8 @@ public:
         int count = 0;
         for (int i = 0; i < 26; i++) {
             if (freq[i]) {
-                count++;
                 freq[i]--;
-                count += backtrack(freq, remaining - 1);
+                count += backtrack(freq, remaining - 1) + 1;
                 freq[i]++;
             }
         }
