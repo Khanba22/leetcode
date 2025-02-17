@@ -1,26 +1,21 @@
-#include <iostream>
-#include <vector>
-
-using namespace std;
-
 class Solution {
 public:
     int numTilePossibilities(string tiles) {
-        vector<int> freq(26);
-        for (char &c : tiles)
-            freq[c - 65]++;
+        unordered_map<char, int> freq;
+        for (char &c : tiles) freq[c]++;
 
-        return backtrack(freq, tiles.size());
+        return backtrack(freq);
     }
 
-    int backtrack(vector<int>& freq, int remaining) {
+private:
+    int backtrack(unordered_map<char, int>& freq) {
         int count = 0;
-        for (int i = 0; i < 26; i++) {
-            if (freq[i]) {
-                freq[i]--;
-                count += 1 + backtrack(freq, remaining - 1);
-                freq[i]++;
-            }
+        for (auto& [ch, val] : freq) {
+            if (val == 0) continue;
+
+            freq[ch]--;
+            count += 1 + backtrack(freq); 
+            freq[ch]++;
         }
         return count;
     }
