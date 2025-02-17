@@ -6,7 +6,7 @@ using namespace std;
 class Solution {
 public:
     int numTilePossibilities(string tiles) {
-        vector<int> freq(26, 0);
+        vector<int> freq(26);
         for (char &c : tiles)
             freq[c - 65]++;
 
