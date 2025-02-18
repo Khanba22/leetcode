@@ -1,12 +1,11 @@
 class Solution {
 public:
     string smallestNumber(string pattern) {
-        int n = pattern.length();
+        short n = pattern.length();
         string result = "";
-        int stack[n + 1];
-        int index = 0;
-
-        for (int i = 0; i <= n; i++) {
+        short stack[n + 1];
+        short index = 0;
+        for (short i = 0; i <= n; i++) {
             stack[index++] = i + 1;
 
             if (i == n || pattern[i] == 'I') {
