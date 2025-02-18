@@ -6,7 +6,7 @@ public:
     string smallestNumber(string pattern) {
         unsigned char n = pattern.size();
         string result;
-        char stack[11];
+        char stack[n+1];
         uint8_t index = 0; 
 
         for (uint8_t i = 0; i <= n; i++) {
