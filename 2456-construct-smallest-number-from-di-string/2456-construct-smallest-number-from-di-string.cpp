@@ -11,7 +11,7 @@ public:
 
             if (i == n || pattern[i] == 'I') {
                 while (index > 0) {
-                    result += to_string(stack[--index]);
+                    result.push_back(stack[--index] + '0');
                 }
             }
         }
