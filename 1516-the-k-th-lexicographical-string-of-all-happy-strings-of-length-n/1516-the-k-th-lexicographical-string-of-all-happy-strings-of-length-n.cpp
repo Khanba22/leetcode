@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool helper(int n, int k, string &curr, int index, string &res, int &count) {
+    bool helper(int &n, int &k, string &curr, int index, string &res, int &count) {
         if (index == n) {
             count++;
             if (count == k) {
