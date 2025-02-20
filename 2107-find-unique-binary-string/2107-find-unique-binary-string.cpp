@@ -2,18 +2,17 @@ class Solution {
 public:
     string findDifferentBinaryString(vector<string>& nums) {
         unordered_map<int,int> seen;
-        int n = nums[0].size();
         int start = 0;
         for (string s : nums) {
             seen[stoi(s, 0, 2)]++;
         }
         while (true) {
             if (!seen.count(start)) {
-                return toBinaryString(start, n);
+                return toBinaryString(start,nums[0].size());
             }
             start++;
         }
-        return toBinaryString(start, n);
+        return "";
     }
 
     string toBinaryString(int num, int length) {
