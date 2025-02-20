@@ -3,13 +3,11 @@ public:
     string findDifferentBinaryString(vector<string>& nums) {
         unordered_map<int,int> seen;
         int n = nums[0].size();
-        string endstr(n, '1');
         int start = 0;
-        int end = stoi(endstr, 0, 2);
         for (string s : nums) {
             seen[stoi(s, 0, 2)]++;
         }
-        while (start <= end) {
+        while (true) {
             if (!seen.count(start)) {
                 return toBinaryString(start, n);
             }
