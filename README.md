@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Khanba22/leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Khanba22/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0461-hamming-distance](https://github.com/Khanba22/leetcode/tree/master/0461-hamming-distance) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Khanba22/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/Khanba22/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 ## Brainteaser
