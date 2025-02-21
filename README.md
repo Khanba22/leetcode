@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Khanba22/leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Khanba22/leetcode/tree/master/0062-unique-paths) |
 | [0279-perfect-squares](https://github.com/Khanba22/leetcode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Khanba22/leetcode/tree/master/0292-nim-game) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Khanba22/leetcode/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/Khanba22/leetcode/tree/master/0060-permutation-sequence) |
 ## Ordered Set
 |  |
 | ------- |
