@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Khanba22/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Khanba22/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Khanba22/leetcode/tree/master/0055-jump-game) |
+| [0316-remove-duplicate-letters](https://github.com/Khanba22/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Khanba22/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Hash Table
 |  |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Khanba22/leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Khanba22/leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Khanba22/leetcode/tree/master/0079-word-search) |
+| [0316-remove-duplicate-letters](https://github.com/Khanba22/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Khanba22/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Khanba22/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Khanba22/leetcode/tree/master/0412-fizz-buzz) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/Khanba22/leetcode/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Khanba22/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0316-remove-duplicate-letters](https://github.com/Khanba22/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Khanba22/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Khanba22/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Khanba22/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -352,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Khanba22/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Khanba22/leetcode/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
