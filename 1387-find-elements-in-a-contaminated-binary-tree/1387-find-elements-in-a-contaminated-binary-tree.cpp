@@ -3,8 +3,8 @@ private:
     unordered_set<int> seen;
 public:
     FindElements(TreeNode* root) {
-        if (root) { // root 不為空時才執行 BFS
-            root->val = 0; // 根節點固定為 0
+        if (root) {
+            root->val = 0;
             bfs(root);
         }
     }
