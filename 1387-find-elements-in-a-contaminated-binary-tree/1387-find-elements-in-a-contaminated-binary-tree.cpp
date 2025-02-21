@@ -1,6 +1,6 @@
 class FindElements {
 private:
-    unordered_set<int> seen;
+    unordered_map<int,int> seen;
 public:
     FindElements(TreeNode* root) {
         if (root) {
@@ -22,7 +22,7 @@ public:
             q.pop();
 
             int val = node->val;
-            seen.insert(val);
+            seen[val]++;
 
             if (node->left) {
                 node->left->val = 2 * val + 1;
