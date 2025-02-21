@@ -1,20 +1,37 @@
 class FindElements {
+private:
+    unordered_set<int> seen;
 public:
-    unordered_map<int,bool> treeData;
-    
-    void recoverTree(TreeNode* root, int rootVal) {
-        if (root == nullptr) return ;
-        root->val = rootVal;
-        treeData[rootVal] = true;
-        recoverTree(root->left, rootVal*2 + 1);
-        recoverTree(root->right, rootVal*2 + 2);
+    FindElements(TreeNode* root) {
+        if (root) { // root 不為空時才執行 BFS
+            root->val = 0; // 根節點固定為 0
+            bfs(root);
+        }
     }
 
-    FindElements(TreeNode* root) {
-        recoverTree(root, 0);
-    }
-    
     bool find(int target) {
-        return target < treeData.size() && treeData[target];
+        return seen.count(target);
+    }
+
+    void bfs(TreeNode* root) {
+        queue<TreeNode*> q;
+        q.push(root);
+
+        while (!q.empty()) {
+            TreeNode* node = q.front();
+            q.pop();
+
+            int val = node->val;
+            seen.insert(val);
+
+            if (node->left) {
+                node->left->val = 2 * val + 1;
+                q.push(node->left);
+            }
+            if (node->right) {
+                node->right->val = 2 * val + 2;
+                q.push(node->right);
+            }
+        }
     }
 };
