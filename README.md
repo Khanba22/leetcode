@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Khanba22/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Khanba22/leetcode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/Khanba22/leetcode/tree/master/0742-to-lower-case) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Khanba22/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Khanba22/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Khanba22/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Khanba22/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Khanba22/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Khanba22/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Khanba22/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Khanba22/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Khanba22/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Khanba22/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Khanba22/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Khanba22/leetcode/tree/master/0854-making-a-large-island) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Khanba22/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Khanba22/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Khanba22/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Khanba22/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/Khanba22/leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Khanba22/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0572-subtree-of-another-tree](https://github.com/Khanba22/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Khanba22/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Khanba22/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Khanba22/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Khanba22/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Matrix
