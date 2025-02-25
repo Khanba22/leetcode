@@ -5,7 +5,8 @@ public:
         int oddCount = 0, evenCount = 1;
         long long sum = 0, result = 0;
 
-        for (int num : arr) {
+        for (int i = 0;i < arr.size();i++) {
+            int num = arr[i];
             sum += num;
             if (sum % 2 == 0) {
                 result = (result + oddCount) % MOD;
