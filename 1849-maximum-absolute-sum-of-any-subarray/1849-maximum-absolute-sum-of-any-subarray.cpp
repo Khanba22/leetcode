@@ -5,7 +5,7 @@ public:
         int currentSum = 0;
         int minSum = INT_MAX;
 
-        for (int num : nums) {
+        for (int &num : nums) {
             currentSum += num;
 
             maxSum = max(maxSum, currentSum);
@@ -15,7 +15,7 @@ public:
         }
         currentSum = 0;
         
-        for (int num : nums) {
+        for (int &num : nums) {
             currentSum += num;
 
             minSum = min(minSum, currentSum);
