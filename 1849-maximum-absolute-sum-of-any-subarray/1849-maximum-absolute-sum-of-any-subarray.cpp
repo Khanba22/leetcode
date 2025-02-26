@@ -2,7 +2,7 @@ class Solution {
 public:
     int maxAbsoluteSum(vector<int>& nums) {
         int maxSum = INT_MIN, minSum = INT_MAX, currMin = 0, currMax = 0;
-        for (int num : nums) {
+        for (int &num : nums) {
             currMin += num;
             currMax += num;
             maxSum = max(maxSum, currMax);
