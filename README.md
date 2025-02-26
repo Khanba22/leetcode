@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Khanba22/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Khanba22/leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Khanba22/leetcode/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/Khanba22/leetcode/tree/master/0492-construct-the-rectangle) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Khanba22/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Khanba22/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/Khanba22/leetcode/tree/master/2448-count-number-of-bad-pairs) |
