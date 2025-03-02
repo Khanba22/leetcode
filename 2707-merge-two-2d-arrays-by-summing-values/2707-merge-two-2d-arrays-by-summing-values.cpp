@@ -1,16 +1,29 @@
 class Solution {
 public:
-    vector<vector<int>> mergeArrays(vector<vector<int>>& n1, vector<vector<int>>& n2) {
-        map<int,int>m;
-        for(vector<int>&arr:n1){
-            m[arr[0]]+=arr[1];
+    vector<vector<int>> mergeArrays(vector<vector<int>>& n1,
+                                    vector<vector<int>>& n2) {
+        int i = 0, j = 0;
+        vector<vector<int>> res;
+        while (i < n1.size() && j < n2.size()) {
+            if (n1[i][0] == n2[j][0]) {
+                res.push_back({n1[i][0], n1[i][1] + n2[j][1]});
+                i++;
+                j++;
+            } else if (n1[i][0] < n2[j][0]) {
+                res.push_back({n1[i][0], n1[i][1]});
+                i++;
+            } else {
+                res.push_back({n2[j][0], n2[j][1]});
+                j++;
+            }
         }
-        for(vector<int>&arr:n2){
-            m[arr[0]]+=arr[1];
+        while (i < n1.size()) {
+            res.push_back({n1[i][0], n1[i][1]});
+            i++;
         }
-        vector<vector<int>>res;
-        for(auto &i:m){
-            res.push_back({i.first,i.second});
+        while (j < n2.size()) {
+            res.push_back({n2[j][0], n2[j][1]});
+            j++;
         }
         return res;
     }
