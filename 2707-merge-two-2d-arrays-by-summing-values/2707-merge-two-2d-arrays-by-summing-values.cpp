@@ -4,7 +4,9 @@ public:
                                     vector<vector<int>>& n2) {
         int i = 0, j = 0;
         vector<vector<int>> res;
-        while (i < n1.size() && j < n2.size()) {
+        int n = n2.size();
+        int m = n1.size();
+        while (i < m && j < n) {
             if (n1[i][0] == n2[j][0]) {
                 res.push_back({n1[i][0], n1[i][1] + n2[j][1]});
                 i++;
@@ -17,11 +19,11 @@ public:
                 j++;
             }
         }
-        while (i < n1.size()) {
+        while (i < m) {
             res.push_back({n1[i][0], n1[i][1]});
             i++;
         }
-        while (j < n2.size()) {
+        while (j < n) {
             res.push_back({n2[j][0], n2[j][1]});
             j++;
         }
