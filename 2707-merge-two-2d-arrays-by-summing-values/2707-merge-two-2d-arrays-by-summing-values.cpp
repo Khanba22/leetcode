@@ -1,7 +1,7 @@
 class Solution {
 public:
-    vector<vector<int>> mergeArrays(vector<vector<int>>& n1,
-                                    vector<vector<int>>& n2) {
+    vector<vector<int>> mergeArrays(vector<vector<int>> n1,
+                                    vector<vector<int>>n2) {
         int i = 0, j = 0;
         vector<vector<int>> res;
         int n = n2.size();
