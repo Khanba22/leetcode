@@ -5,12 +5,13 @@ public:
         int i = 0, j = 0;
         vector<vector<int>> res;
         int n = n2.size();
+        int k1,k2,v1,v2;
         int m = n1.size();
         while (i < m && j < n) {
-            int k1 = n1[i][0];
-            int k2 = n2[j][0];
-            int v1 = n1[i][1];
-            int v2 = n2[j][1];
+            k1 = n1[i][0];
+            k2 = n2[j][0];
+            v1 = n1[i][1];
+            v2 = n2[j][1];
             if (k1 == n2[j][0]) {
                 res.push_back({k1, v1 + v2});
                 i++;
