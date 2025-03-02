@@ -1,21 +1,25 @@
 class Solution {
 public:
-    vector<vector<int>> mergeArrays(vector<vector<int>> n1,
-                                    vector<vector<int>>n2) {
+    vector<vector<int>> mergeArrays(vector<vector<int>>& n1,
+                                    vector<vector<int>>& n2) {
         int i = 0, j = 0;
         vector<vector<int>> res;
         int n = n2.size();
         int m = n1.size();
         while (i < m && j < n) {
-            if (n1[i][0] == n2[j][0]) {
-                res.push_back({n1[i][0], n1[i][1] + n2[j][1]});
+            int k1 = n1[i][0];
+            int k2 = n2[j][0];
+            int v1 = n1[i][1];
+            int v2 = n2[j][1];
+            if (k1 == n2[j][0]) {
+                res.push_back({k1, v1 + v2});
                 i++;
                 j++;
-            } else if (n1[i][0] < n2[j][0]) {
-                res.push_back({n1[i][0], n1[i][1]});
+            } else if (k1 < k2) {
+                res.push_back({k1, v1});
                 i++;
             } else {
-                res.push_back({n2[j][0], n2[j][1]});
+                res.push_back({n2[j][0], v2});
                 j++;
             }
         }
