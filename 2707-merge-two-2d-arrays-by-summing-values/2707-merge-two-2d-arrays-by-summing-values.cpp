@@ -5,7 +5,7 @@ public:
         int i = 0, j = 0;
         int m = n1.size(), n = n2.size();
         vector<vector<int>> res;
-        res.reserve(m + n);  // Preallocate memory
+        res.reserve(m + n);
 
         while (i < m && j < n) {
             int k1 = n1[i][0], v1 = n1[i][1]; 
@@ -16,16 +16,16 @@ public:
                 i++;
                 j++;
             } else if (k1 < k2) {
-                res.push_back(move(n1[i])); 
+                res.emplace_back(move(n1[i])); 
                 i++;
             } else {
-                res.push_back(move(n2[j]));
+                res.emplace_back(move(n2[j]));
                 j++;
             }
         }
         
-        while (i < m) res.push_back(move(n1[i++]));
-        while (j < n) res.push_back(move(n2[j++]));
+        while (i < m) res.emplace_back(move(n1[i++]));
+        while (j < n) res.emplace_back(move(n2[j++]));
 
         return res;
     }
