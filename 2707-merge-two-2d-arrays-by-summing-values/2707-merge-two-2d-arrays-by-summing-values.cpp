@@ -6,7 +6,6 @@ public:
         vector<vector<int>> res;
         int n = n2.size();
         int m = n1.size();
-        int k1,k2,v1,v2;
         while (i < m && j < n) {
             int k1 = n1[i][0];
             int k2 = n2[j][0];
