@@ -3,10 +3,11 @@ public:
     long long coloredCells(int n) {
         long long count = 0;
         for (int i = n - 1; i >= 0; i--) {
-            count += 2 * (long long)i + 1;
-        }
-        for (int i = n - 2; i >= 0; i--) {
-            count += 2 * (long long)i + 1;
+            if(i == n - 1){
+                count += 2 * (long long)i + 1;
+            }else{
+                count += 4 * (long long)i + 2;
+            }
         }
         return count;
     }
