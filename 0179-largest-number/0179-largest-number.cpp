@@ -6,7 +6,7 @@ public:
 
     string largestNumber(vector<int>& nums) {
         vector<string> newNums;
-        for (int num : nums) {
+        for (int &num : nums) {
             newNums.push_back(to_string(num));
         }
 
