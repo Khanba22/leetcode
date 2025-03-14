@@ -11,10 +11,7 @@ public:
     }
 
     int maximumCandies(vector<int>& candies, long long k) {
-        long long sum = accumulate(candies.begin(), candies.end(), 0LL);
-        if (sum < k) return 0;
-
-        int low = 1, high = sum / k, res = 0;
+        int low = 1, high = INT_MAX, res = 0;
         while (low <= high) {
             int mid = low + (high - low) / 2;
             if (isSufficient(candies, k, mid)) {
