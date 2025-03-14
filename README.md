@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Khanba22/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Khanba22/leetcode/tree/master/0079-word-search) |
 | [0164-maximum-gap](https://github.com/Khanba22/leetcode/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/Khanba22/leetcode/tree/master/0179-largest-number) |
 | [0228-summary-ranges](https://github.com/Khanba22/leetcode/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/Khanba22/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Khanba22/leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Khanba22/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Khanba22/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Khanba22/leetcode/tree/master/0055-jump-game) |
+| [0179-largest-number](https://github.com/Khanba22/leetcode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Khanba22/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Khanba22/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Hash Table
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Khanba22/leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Khanba22/leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Khanba22/leetcode/tree/master/0079-word-search) |
+| [0179-largest-number](https://github.com/Khanba22/leetcode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Khanba22/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Khanba22/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Khanba22/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Khanba22/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Khanba22/leetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Khanba22/leetcode/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/Khanba22/leetcode/tree/master/0179-largest-number) |
 | [0414-third-maximum-number](https://github.com/Khanba22/leetcode/tree/master/0414-third-maximum-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Khanba22/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Khanba22/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
