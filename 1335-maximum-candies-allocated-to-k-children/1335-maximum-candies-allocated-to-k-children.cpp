@@ -3,7 +3,7 @@ public:
     bool isSufficient(vector<int>& candies, long long k, int amount) {
         if (amount == 0) return false;
         long long count = 0;
-        for (int c : candies) {
+        for (int &c : candies) {
             count += c / amount;
             if (count >= k) return true;
         }
