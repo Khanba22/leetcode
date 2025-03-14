@@ -1,11 +1,13 @@
 class Solution {
 public:
     int maximumGap(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        int diff = 0;
-        for(int i = 1;i < nums.size();i++){
-            diff = max(nums[i]-nums[i-1],diff);
+        int maxS=0;
+        if(nums.size()<2) return 0;
+        sort(nums.begin(), nums.end());
+        for(int i=0;i<nums.size()-1;i++){
+            int sum=nums[i+1]-nums[i];
+            maxS=max(maxS, sum);
         }
-        return diff;
+        return maxS;
     }
 };
