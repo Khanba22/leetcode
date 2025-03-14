@@ -11,7 +11,10 @@ public:
     }
 
     int maximumCandies(vector<int>& candies, long long k) {
-        int low = 1, high = INT_MAX, res = 0;
+        int low = 1, high = 0, res = 0;
+        for(int &i:candies){
+            high = max(high,i);    
+        }
         while (low <= high) {
             int mid = low + (high - low) / 2;
             if (isSufficient(candies, k, mid)) {
