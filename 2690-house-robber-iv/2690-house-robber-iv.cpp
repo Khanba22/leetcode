@@ -16,12 +16,8 @@ public:
     }
     
     int minCapability(vector<int>& nums, int k) {
-        int left = INT_MAX;
-        int right = INT_MIN;
-        for(int i = 0;i < nums.size();i++){
-            left = min(left,nums[i]);
-            right = max(right,nums[i]);
-        }
+        int left = *min_element(nums.begin(), nums.end());
+        int right = *max_element(nums.begin(), nums.end());
         while (left < right) {
             int mid = left + (right - left) / 2;
             if (canSteal(nums, k, mid)) {
