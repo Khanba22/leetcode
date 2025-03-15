@@ -10,8 +10,9 @@ public:
             } else {
                 i++;
             }
+            if(count >= k) return true;
         }
-        return count >= k;
+        return false;
     }
     
     int minCapability(vector<int>& nums, int k) {
