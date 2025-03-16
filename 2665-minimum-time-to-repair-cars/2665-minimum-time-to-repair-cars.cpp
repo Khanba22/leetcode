@@ -2,7 +2,7 @@ class Solution {
 public:
     bool canRepair(vector<int>& ranks, int cars, long long time) {
         long long carsDone = 0;
-        for (int i : ranks) {
+        for (int &i : ranks) {
             carsDone += sqrt(time / i);
             if (carsDone >= cars) return true;
         }
