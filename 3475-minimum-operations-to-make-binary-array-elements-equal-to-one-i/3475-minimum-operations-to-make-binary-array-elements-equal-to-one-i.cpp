@@ -13,9 +13,7 @@ public:
             }
         }
 
-        for(int i = 0; i < n; i++) {
-            if(nums[i] == 0) return -1;
-        }
+        if(!nums[n - 1] || !nums[n - 2]) return -1;
 
         return ops;
     }
