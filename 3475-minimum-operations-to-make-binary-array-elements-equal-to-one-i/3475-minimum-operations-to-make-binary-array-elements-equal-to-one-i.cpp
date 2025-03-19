@@ -7,9 +7,9 @@ public:
         for(int i = 0; i <= n - 3; i++) {
             if(nums[i] == 0) {
                 ops++;
-                for(int j = i; j < i + 3; j++) {
-                    nums[j] = 1 - nums[j];
-                }
+                nums[i] = 1 - nums[i];
+                nums[i + 1] = 1 - nums[i + 1];
+                nums[i + 2] = 1 - nums[i + 2];
             }
         }
 
