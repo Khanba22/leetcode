@@ -4,7 +4,7 @@ public:
         sort(meetings.begin(), meetings.end());
         int prevEnd = 0;
 
-        for (auto& meeting : meetings) {
+        for (vector<int>&meeting : meetings) {
             int start = max(meeting[0], prevEnd + 1);
             int length = meeting[1] - start + 1;
             days -= max(length, 0);
