@@ -2,9 +2,9 @@ class Solution {
 public:
     int minOperations(vector<vector<int>>& grid, int x) {
         vector<int> values;
-        for (const auto& row : grid) {
-            for (int val : row) {
-                values.push_back(val);
+        for (int i = 0; i < grid.size(); i++) {
+            for (int j = 0; j < grid[i].size(); j++) {
+                values.emplace_back(grid[i][j]);
             }
         }
 
