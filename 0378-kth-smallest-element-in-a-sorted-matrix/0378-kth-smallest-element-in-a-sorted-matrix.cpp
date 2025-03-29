@@ -17,7 +17,7 @@ public:
         return count; 
     }
 
-    int kthSmallest(std::vector<std::vector<int>>& matrix, int k) {
+    int kthSmallest(vector<vector<int>>& matrix, int k) {
         int n = matrix.size();
         int low = matrix[0][0];
         int high = matrix[n-1][n-1];
