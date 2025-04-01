@@ -1,19 +1,19 @@
 class Solution {
-private:
-    long helper(int i, vector<vector<int>>& questions, vector<long>& dp, int n) {
-        if (i >= n) return 0;
-        if (dp[i] != -1) return dp[i];
-
-        long take = questions[i][0] + helper(i + questions[i][1] + 1, questions, dp, n);
-        long dont = helper(i + 1, questions, dp, n);
-
-        return dp[i] = max(take, dont);
-    }
-
 public:
     long mostPoints(vector<vector<int>>& questions) {
         int n = questions.size();
-        vector<long> dp(n, -1);
-        return helper(0, questions, dp, n);
+        vector<long> dp(n + 1, 0);
+
+        for (int i = n - 1; i >= 0; --i) {
+            long take = questions[i][0]; 
+            int nextIdx = i + questions[i][1] + 1;
+            if (nextIdx < n) take += dp[nextIdx]; 
+
+            long dontTake = dp[i + 1];
+
+            dp[i] = max(take, dontTake);
+        }
+
+        return dp[0];
     }
 };
