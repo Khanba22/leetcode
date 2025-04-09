@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/Khanba22/leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Khanba22/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Khanba22/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2250-k-highest-ranked-items-within-a-price-range](https://github.com/Khanba22/leetcode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2262-solving-questions-with-brainpower](https://github.com/Khanba22/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Khanba22/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Khanba22/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Khanba22/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Khanba22/leetcode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/Khanba22/leetcode/tree/master/1876-map-of-highest-peak) |
+| [2250-k-highest-ranked-items-within-a-price-range](https://github.com/Khanba22/leetcode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Khanba22/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Khanba22/leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Khanba22/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/Khanba22/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Khanba22/leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Khanba22/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2250-k-highest-ranked-items-within-a-price-range](https://github.com/Khanba22/leetcode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Khanba22/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Khanba22/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Khanba22/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Khanba22/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Khanba22/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Khanba22/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2250-k-highest-ranked-items-within-a-price-range](https://github.com/Khanba22/leetcode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2434-design-a-number-container-system](https://github.com/Khanba22/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Khanba22/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Khanba22/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -508,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Khanba22/leetcode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Khanba22/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Khanba22/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2250-k-highest-ranked-items-within-a-price-range](https://github.com/Khanba22/leetcode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Khanba22/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Khanba22/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Khanba22/leetcode/tree/master/2681-put-marbles-in-bags) |
