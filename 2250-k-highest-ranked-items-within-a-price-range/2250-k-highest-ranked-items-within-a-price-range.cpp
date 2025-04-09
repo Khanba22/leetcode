@@ -1,64 +1,34 @@
 class Solution {
 public:
-    vector<vector<int>> dirs = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
+    vector<vector<int>> highestRankedKItems(vector<vector<int>>& grid, vector<int>& pricing, vector<int>& start, int k) {
+        vector<pair<int, int>> dirs = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
+        queue<pair<int, int>> que;
+        vector<tuple<int, int, int, int>> itemInfo;
+        que.emplace(start[0], start[1]);
+        if (grid[start[0]][start[1]] >= pricing[0] && grid[start[0]][start[1]] <= pricing[1]) itemInfo.emplace_back(0, grid[start[0]][start[1]], start[0], start[1]);
+        grid[start[0]][start[1]] = 0;
+        int dist = 1;
+        while (!que.empty()) {
+            int size = que.size();
+            while (size--) {
+                auto [x, y] = que.front();
+                que.pop();
 
-    vector<vector<int>> highestRankedKItems(vector<vector<int>>& grid,
-                                            vector<int>& pricing,
-                                            vector<int>& start, int k) {
-
-        int m = grid.size();
-        int n = grid[0].size();
-
-        priority_queue<vector<int>> pq; // max-heap <distance, price, row, col>
-                                        // == top_element --> lowest rank
-        vector<vector<bool>> visited(m, vector<bool>(n, false));
-        queue<pair<int, int>> qu;
-        qu.push({start[0], start[1]});
-        visited[start[0]][start[1]] = true;
-
-        int dist = 0;
-        while (!qu.empty()) {
-
-            int size = qu.size();
-            for (int i = 0; i < size; i++) {
-
-                int curr_x = qu.front().first;
-                int curr_y = qu.front().second;
-                qu.pop();
-
-                if (grid[curr_x][curr_y] >= pricing[0] &&
-                    grid[curr_x][curr_y] <= pricing[1]) {
-                    pq.push({dist, grid[curr_x][curr_y], curr_x, curr_y});
-                    if (pq.size() > k)
-                        pq.pop();
-                }
-
-                for (auto dir : dirs) {
-
-                    int new_x = curr_x + dir[0];
-                    int new_y = curr_y + dir[1];
-
-                    if (new_x < 0 || new_x >= m || new_y < 0 || new_y >= n ||
-                        grid[new_x][new_y] == 0 ||
-                        visited[new_x][new_y] == true)
-                        continue;
-
-                    qu.push({new_x, new_y});
-                    visited[new_x][new_y] = true;
+                for (auto& dir: dirs) {
+                    int nx = x+dir.first, ny = y+dir.second;
+                    if (nx < 0 || nx >= grid.size() || ny < 0 || ny >= grid[0].size() || grid[nx][ny] == 0) continue;
+                    if (grid[nx][ny] >= pricing[0] && grid[nx][ny] <= pricing[1]) itemInfo.emplace_back(dist, grid[nx][ny], nx, ny);
+                    grid[nx][ny] = 0;
+                    que.emplace(nx, ny); 
                 }
             }
-
             dist++;
         }
-
+        sort(itemInfo.begin(), itemInfo.end());
         vector<vector<int>> ans;
-        while (!pq.empty()) {
-            ans.push_back({pq.top()[2], pq.top()[3]});
-            pq.pop();
+        for (int i = 0; i < min(k, (int)itemInfo.size()); i++) {
+            ans.emplace_back(vector<int>{get<2>(itemInfo[i]), get<3>(itemInfo[i])});
         }
-
-        reverse(ans.begin(), ans.end());
-
         return ans;
     }
 };
