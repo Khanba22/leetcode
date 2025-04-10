@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Khanba22/leetcode/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Khanba22/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0279-perfect-squares](https://github.com/Khanba22/leetcode/tree/master/0279-perfect-squares) |
+| [0338-counting-bits](https://github.com/Khanba22/leetcode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Khanba22/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Khanba22/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Khanba22/leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Khanba22/leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Khanba22/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Khanba22/leetcode/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/Khanba22/leetcode/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Khanba22/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Khanba22/leetcode/tree/master/0461-hamming-distance) |
