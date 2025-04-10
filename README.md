@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Khanba22/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Khanba22/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Khanba22/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Khanba22/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Khanba22/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Khanba22/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Khanba22/leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Khanba22/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Khanba22/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Khanba22/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Khanba22/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Khanba22/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3447-clear-digits](https://github.com/Khanba22/leetcode/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Khanba22/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Stack
