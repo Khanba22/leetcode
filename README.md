@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Khanba22/leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Khanba22/leetcode/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Khanba22/leetcode/tree/master/0492-construct-the-rectangle) |
+| [1086-divisor-game](https://github.com/Khanba22/leetcode/tree/master/1086-divisor-game) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Khanba22/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Khanba22/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Khanba22/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Khanba22/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Khanba22/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Khanba22/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1086-divisor-game](https://github.com/Khanba22/leetcode/tree/master/1086-divisor-game) |
 | [1170-shortest-common-supersequence](https://github.com/Khanba22/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Khanba22/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Khanba22/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -212,11 +214,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Khanba22/leetcode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/Khanba22/leetcode/tree/master/1086-divisor-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Khanba22/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Khanba22/leetcode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/Khanba22/leetcode/tree/master/1086-divisor-game) |
 ## Design
 |  |
 | ------- |
