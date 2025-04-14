@@ -1,18 +1,32 @@
 class Solution {
-    public int getLucky(String s, int k) {
-        String nums = "";
+    public int getLucky(String s,int k) {
+
+        int sum = 0;
+        StringBuilder str = new StringBuilder();
         for (int i = 0; i < s.length(); i++) {
-            int x = (int) s.charAt(i) - (int) 'a' + 1;
-            nums = nums + x;
+              int val = s.charAt(i) - 'a'+1;  
+            str.append(val);
         }
-        for (int i = 0; i < k; i++) {
-            System.out.println(nums);
-            int sum = 0;
-            for (int j = 0; j < nums.length(); j++) {
-                sum += Integer.parseInt(String.valueOf(nums.charAt(j)));
+         String ans = str.toString();
+
+        for (int i = 0; i < ans.length(); i++) {
+            sum += ans.charAt(i) - '0';
+        }
+        for (int i = 0; i < k-1; i++) {
+            if (sum < 10){
+                break;
             }
-            nums = String.valueOf(sum);
+            sum = helper(sum);
         }
-        return Integer.parseInt(nums);
+        return sum;
+    }
+    public int helper(int num){
+        int sum = 0;
+        while(num != 0){
+            int digit = num%10;
+            sum += digit;
+            num /= 10;
+        }
+        return sum;
     }
 }
