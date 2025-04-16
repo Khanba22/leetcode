@@ -1,14 +1,23 @@
 class Solution {
 public:
-    int findMin(vector<int>& nums) {
-        int n = nums.size();
-        int breakpoint = 0;
-        for(int i = 1;i < n;i++){
-            if(nums[i] >= nums[i-1]) breakpoint = i;
-            else break;
+    int findMin(vector<int> &num) {
+        int lo = 0;
+        int hi = num.size() - 1;
+        int mid = 0;
+        
+        while(lo < hi) {
+            mid = lo + (hi - lo) / 2;
+            
+            if (num[mid] > num[hi]) {
+                lo = mid + 1;
+            }
+            else if (num[mid] < num[hi]) {
+                hi = mid;
+            }
+            else { // when num[mid] and num[hi] are same
+                hi--;
+            }
         }
-        if(breakpoint == n - 1) return nums[0];
-        return nums[breakpoint+1];
-        return nums[0];
+        return num[lo];
     }
 };
