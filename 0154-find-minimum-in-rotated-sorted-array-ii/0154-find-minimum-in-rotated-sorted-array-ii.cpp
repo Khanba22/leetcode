@@ -7,11 +7,12 @@ public:
         
         while(lo < hi) {
             mid = lo + (hi - lo) / 2;
+            int nm = num[mid],nh = num[hi];
             
-            if (num[mid] > num[hi]) {
+            if (nm > nh) {
                 lo = mid + 1;
             }
-            else if (num[mid] < num[hi]) {
+            else if (nm < nh) {
                 hi = mid;
             }
             else { // when num[mid] and num[hi] are same
