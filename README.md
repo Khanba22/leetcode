@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Khanba22/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Khanba22/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Khanba22/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Khanba22/leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3447-clear-digits](https://github.com/Khanba22/leetcode/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Khanba22/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Khanba22/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Khanba22/leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Khanba22/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/Khanba22/leetcode/tree/master/2998-count-symmetric-integers) |
+| [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Khanba22/leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3548-find-the-count-of-good-integers](https://github.com/Khanba22/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 ## Binary Search Tree
 |  |
