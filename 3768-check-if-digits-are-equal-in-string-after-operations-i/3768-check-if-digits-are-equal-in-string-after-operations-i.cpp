@@ -4,7 +4,7 @@ public:
         string temp;
         while (s.size() > 2) {
             for (int i = 1; i < s.size(); i++) {
-                char c = (s[i] + s[i - 1] - '0' - '0') % 10;
+                char c = (s[i] + s[i - 1]) % 10;
                 temp.push_back(c);
             }
             s = temp;
