@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Khanba22/leetcode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Khanba22/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Khanba22/leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0797-rabbits-in-forest](https://github.com/Khanba22/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/Khanba22/leetcode/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Khanba22/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Khanba22/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Khanba22/leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Khanba22/leetcode/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Khanba22/leetcode/tree/master/0492-construct-the-rectangle) |
+| [0797-rabbits-in-forest](https://github.com/Khanba22/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1086-divisor-game](https://github.com/Khanba22/leetcode/tree/master/1086-divisor-game) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Khanba22/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Khanba22/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Khanba22/leetcode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Khanba22/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0768-partition-labels](https://github.com/Khanba22/leetcode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Khanba22/leetcode/tree/master/0797-rabbits-in-forest) |
 | [2032-largest-odd-number-in-string](https://github.com/Khanba22/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Khanba22/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/Khanba22/leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Khanba22/leetcode/tree/master/0037-sudoku-solver) |
 | [0451-sort-characters-by-frequency](https://github.com/Khanba22/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0768-partition-labels](https://github.com/Khanba22/leetcode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Khanba22/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Khanba22/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Khanba22/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/Khanba22/leetcode/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
