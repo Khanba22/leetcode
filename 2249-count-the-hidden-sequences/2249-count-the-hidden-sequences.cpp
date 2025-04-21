@@ -1,20 +1,24 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+using namespace std;
+
 class Solution {
 public:
     int numberOfArrays(vector<int>& d, int lower, int upper) {
         int n = d.size();
         vector<long long> arr(n + 1, 0);
-        arr[n] = lower;
+        arr[0] = 0;
 
-        long long minVal = 0, maxVal = 0;
-        long long current = 0;
-
-        for (int i = 0; i < n; ++i) {
-            current += d[i];
-            minVal = min(minVal, current);
-            maxVal = max(maxVal, current);
+        for (int i = 0; i < n; i++) {
+            arr[i + 1] = arr[i] + d[i];
         }
 
-        long long range = (upper - lower) - (maxVal - minVal) + 1;
-        return max(0LL, range);
+        int minVal = *min_element(arr.begin(), arr.end());
+        int maxVal = *max_element(arr.begin(), arr.end());
+
+        int range = (upper - lower) - (maxVal - minVal) + 1;
+
+        return max(0, range);
     }
 };
