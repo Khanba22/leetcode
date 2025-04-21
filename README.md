@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Khanba22/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Khanba22/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Khanba22/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2249-count-the-hidden-sequences](https://github.com/Khanba22/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/Khanba22/leetcode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2262-solving-questions-with-brainpower](https://github.com/Khanba22/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Khanba22/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Khanba22/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Khanba22/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2145-grid-game](https://github.com/Khanba22/leetcode/tree/master/2145-grid-game) |
+| [2249-count-the-hidden-sequences](https://github.com/Khanba22/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Khanba22/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Khanba22/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Greedy
