@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Khanba22/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Khanba22/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0279-perfect-squares](https://github.com/Khanba22/leetcode/tree/master/0279-perfect-squares) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Khanba22/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/Khanba22/leetcode/tree/master/0684-redundant-connection) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Khanba22/leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/Khanba22/leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Khanba22/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Khanba22/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Khanba22/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Khanba22/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Khanba22/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Khanba22/leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Khanba22/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Khanba22/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Khanba22/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Khanba22/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Khanba22/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Khanba22/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/Khanba22/leetcode/tree/master/0684-redundant-connection) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Khanba22/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Khanba22/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Khanba22/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Khanba22/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Khanba22/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Khanba22/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Khanba22/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Khanba22/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
