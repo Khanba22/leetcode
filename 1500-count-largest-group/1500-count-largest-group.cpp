@@ -1,28 +1,18 @@
 class Solution {
 public:
-    int getDigitSum(int n){
-        int res = 0;
-        while(n){
-            res+=n%10;
-            n/=10;
-        }
-        return res;
-    }
     int countLargestGroup(int n) {
-        map<int,int>m;
-        for(int i = 0;i < n;i++){
-            m[getDigitSum(i+1)]++;
+       vector<int> count(37,0);
+        for(int i=1;i<=n;i++){
+            count[calc_sum(i)]++;
         }
-        int maxGrpSize = 0;
-        int maxGrpSizeFreq = 0;
-        for(auto i:m){
-            if(i.second == maxGrpSize){
-                maxGrpSizeFreq++;
-            }else if(i.second > maxGrpSize){
-                maxGrpSizeFreq = 1;
-                maxGrpSize = i.second;
-            }
+        int maxi=*max_element(count.begin(),count.end());
+        int ans=0;
+        for(auto i:count){
+            if(i==maxi)ans++;
         }
-        return maxGrpSizeFreq;
+        return ans;
+    }
+    int calc_sum(int n){
+        return n==0?0:(n%10)+calc_sum(n/10);  
     }
 };
