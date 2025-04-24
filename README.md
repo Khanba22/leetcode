@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Khanba22/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Khanba22/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Khanba22/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2339-k-divisible-elements-subarrays](https://github.com/Khanba22/leetcode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Khanba22/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Khanba22/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/Khanba22/leetcode/tree/master/2478-longest-nice-subarray) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Khanba22/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Khanba22/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Khanba22/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2339-k-divisible-elements-subarrays](https://github.com/Khanba22/leetcode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2434-design-a-number-container-system](https://github.com/Khanba22/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Khanba22/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Khanba22/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Khanba22/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [2339-k-divisible-elements-subarrays](https://github.com/Khanba22/leetcode/tree/master/2339-k-divisible-elements-subarrays) |
 ## Recursion
 |  |
 | ------- |
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Khanba22/leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Khanba22/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Khanba22/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2339-k-divisible-elements-subarrays](https://github.com/Khanba22/leetcode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2998-count-symmetric-integers](https://github.com/Khanba22/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Khanba22/leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3548-find-the-count-of-good-integers](https://github.com/Khanba22/leetcode/tree/master/3548-find-the-count-of-good-integers) |
@@ -690,4 +694,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Khanba22/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [2339-k-divisible-elements-subarrays](https://github.com/Khanba22/leetcode/tree/master/2339-k-divisible-elements-subarrays) |
+## Rolling Hash
+|  |
+| ------- |
+| [2339-k-divisible-elements-subarrays](https://github.com/Khanba22/leetcode/tree/master/2339-k-divisible-elements-subarrays) |
 <!---LeetCode Topics End-->
