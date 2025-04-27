@@ -2,7 +2,8 @@ class Solution {
 public:
     int countSubarrays(vector<int>& nums) {
         int res = 0;
-        for(int i = 0;i < nums.size() - 2;i++){
+        int n = nums.size();
+        for(int i = 0;i < n - 2;i++){
             if(nums[i] + nums[i + 2] == nums[i + 1] / 2 && !(nums[i + 1] & 1)) res++;
         }
         return res;
