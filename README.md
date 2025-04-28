@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Khanba22/leetcode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Khanba22/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Khanba22/leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Khanba22/leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Khanba22/leetcode/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Khanba22/leetcode/tree/master/0492-construct-the-rectangle) |
 | [0797-rabbits-in-forest](https://github.com/Khanba22/leetcode/tree/master/0797-rabbits-in-forest) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Khanba22/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/Khanba22/leetcode/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/Khanba22/leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Khanba22/leetcode/tree/master/0415-add-strings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Khanba22/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Khanba22/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Khanba22/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Khanba22/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/Khanba22/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Khanba22/leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Khanba22/leetcode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Khanba22/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0742-to-lower-case](https://github.com/Khanba22/leetcode/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/Khanba22/leetcode/tree/master/0768-partition-labels) |
