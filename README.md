@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Khanba22/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Khanba22/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Khanba22/leetcode/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/Khanba22/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Khanba22/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0742-to-lower-case](https://github.com/Khanba22/leetcode/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/Khanba22/leetcode/tree/master/0768-partition-labels) |
