@@ -1,11 +1,9 @@
 class Solution {
 public:
     long long countSubarrays(vector<int>& nums, int k) {
-        long long res = 0;
+        long long res = 0,freq = 0,left = 0;
         int n = nums.size();
         int maxi = *max_element(nums.begin(), nums.end());
-        long long freq = 0;
-        long long left = 0;
 
         for(int i = 0; i < n; i++) {
             if(nums[i] == maxi) freq++;
