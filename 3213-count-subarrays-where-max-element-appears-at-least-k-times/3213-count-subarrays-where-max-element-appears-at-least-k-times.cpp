@@ -9,15 +9,12 @@ public:
 
         for(int i = 0; i < n; i++) {
             if(nums[i] == maxi) freq++;
-
             while(freq >= k) {
                 if(nums[left] == maxi) freq--;
                 left++;
             }
-
             res += left;
         }
-
         return res;
     }
 };
