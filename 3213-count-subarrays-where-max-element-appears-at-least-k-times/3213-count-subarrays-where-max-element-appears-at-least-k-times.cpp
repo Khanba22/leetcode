@@ -4,8 +4,8 @@ public:
         long long res = 0;
         int n = nums.size();
         int maxi = *max_element(nums.begin(), nums.end());
-        int freq = 0;
-        int left = 0;
+        long long freq = 0;
+        long long left = 0;
 
         for(int i = 0; i < n; i++) {
             if(nums[i] == maxi) freq++;
