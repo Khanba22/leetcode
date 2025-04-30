@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Khanba22/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Khanba22/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/Khanba22/leetcode/tree/master/2681-put-marbles-in-bags) |
+| [2684-determine-the-winner-of-a-bowling-game](https://github.com/Khanba22/leetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Khanba22/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/Khanba22/leetcode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Khanba22/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Khanba22/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Khanba22/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Khanba22/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2684-determine-the-winner-of-a-bowling-game](https://github.com/Khanba22/leetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/Khanba22/leetcode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Khanba22/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Khanba22/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
