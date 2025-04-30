@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Khanba22/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2145-grid-game](https://github.com/Khanba22/leetcode/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/Khanba22/leetcode/tree/master/2249-count-the-hidden-sequences) |
+| [2309-maximize-number-of-subsequences-in-a-string](https://github.com/Khanba22/leetcode/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
 | [2915-count-of-interesting-subarrays](https://github.com/Khanba22/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Khanba22/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Khanba22/leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Khanba22/leetcode/tree/master/0797-rabbits-in-forest) |
 | [2032-largest-odd-number-in-string](https://github.com/Khanba22/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Khanba22/leetcode/tree/master/2154-minimum-moves-to-convert-string) |
+| [2309-maximize-number-of-subsequences-in-a-string](https://github.com/Khanba22/leetcode/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Khanba22/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/Khanba22/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Khanba22/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/Khanba22/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Khanba22/leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Khanba22/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2309-maximize-number-of-subsequences-in-a-string](https://github.com/Khanba22/leetcode/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Khanba22/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Khanba22/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Khanba22/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
