@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Khanba22/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Khanba22/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Khanba22/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Khanba22/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Khanba22/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Khanba22/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Khanba22/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Khanba22/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Khanba22/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Khanba22/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Khanba22/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Khanba22/leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3447-clear-digits](https://github.com/Khanba22/leetcode/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Khanba22/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -627,11 +629,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Khanba22/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/Khanba22/leetcode/tree/master/0812-rotate-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Khanba22/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Khanba22/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [2339-k-divisible-elements-subarrays](https://github.com/Khanba22/leetcode/tree/master/2339-k-divisible-elements-subarrays) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Khanba22/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Recursion
 |  |
 | ------- |
@@ -731,10 +735,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2339-k-divisible-elements-subarrays](https://github.com/Khanba22/leetcode/tree/master/2339-k-divisible-elements-subarrays) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Khanba22/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
 | ------- |
 | [2339-k-divisible-elements-subarrays](https://github.com/Khanba22/leetcode/tree/master/2339-k-divisible-elements-subarrays) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Khanba22/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Monotonic Queue
 |  |
 | ------- |
