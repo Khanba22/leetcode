@@ -1,8 +1,8 @@
 class Solution {
 public:
-    string pushDominoes(string dominoes) {
-        int n = dominoes.size();
-        string s = "L" + dominoes + "R";
+    string pushDominoes(string s) {
+        int n = s.size();
+        s = "L" + s + "R";
         int prev = 0;
         for (int i = 1; i < s.size(); ++i) {
             if (s[i] == '.') continue;
