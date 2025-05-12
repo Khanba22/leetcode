@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Khanba22/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/Khanba22/leetcode/tree/master/0037-sudoku-solver) |
 | [0409-longest-palindrome](https://github.com/Khanba22/leetcode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Khanba22/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Khanba22/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/Khanba22/leetcode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Khanba22/leetcode/tree/master/0044-wildcard-matching) |
 | [0068-text-justification](https://github.com/Khanba22/leetcode/tree/master/0068-text-justification) |
@@ -718,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Khanba22/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0220-contains-duplicate-iii](https://github.com/Khanba22/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Khanba22/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Khanba22/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
