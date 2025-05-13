@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Khanba22/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Khanba22/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Khanba22/leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Khanba22/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Khanba22/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
 |  |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/Khanba22/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Khanba22/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Khanba22/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Khanba22/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/Khanba22/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Khanba22/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Khanba22/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Khanba22/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Khanba22/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Simulation
 |  |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Khanba22/leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3447-clear-digits](https://github.com/Khanba22/leetcode/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Khanba22/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Khanba22/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Khanba22/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
 |  |
@@ -629,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Khanba22/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Khanba22/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Khanba22/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Khanba22/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Topological Sort
 |  |
 | ------- |
