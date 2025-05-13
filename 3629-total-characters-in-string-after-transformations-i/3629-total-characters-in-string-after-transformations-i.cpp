@@ -1,32 +1,37 @@
 class Solution {
 public:
     int lengthAfterTransformations(string s, int t) {
-        const int MOD = 1000000007;
-        vector<int> freq(26, 0);
+        int MOD = 1e9 + 7;
+        vector<long> cnts(26, 0);
 
         for (char c : s) {
-            freq[c - 'a']++;
+            cnts[c - 'a']++;
         }
 
-        while (t--) {
-            long long a = freq[25];
-            vector<int> newFreq(26, 0);
-
-            for (int i = 24; i >= 0; i--) {
-                newFreq[i + 1] = freq[i];
+        while (t >= 26) {
+            vector<long> tmp(26, 0);
+            for (int i = 0; i < 25; ++i) {
+                tmp[i + 1] += cnts[i];
             }
 
-            newFreq[0] = a;
-            newFreq[1] = (newFreq[1] + a) % MOD;
+            tmp[0] += cnts[25];
+            tmp[1] += cnts[25];
 
-            freq = move(newFreq);
+            for (int i = 0; i < 26; ++i) {
+                cnts[i] = (cnts[i] + tmp[i]) % MOD;
+            }
+
+            t -= 26;
         }
 
-        long long res = 0;
-        for (int count : freq) {
-            res = (res + count) % MOD;
+        long ans = 0;
+        for (int i = 0; i < 26; ++i) {
+            ans = (ans + cnts[i]) % MOD;
+            if (i + t >= 26) {
+                ans = (ans + cnts[i]) % MOD;
+            }
         }
 
-        return res;
+        return ans;
     }
 };
