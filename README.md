@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Khanba22/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Khanba22/leetcode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/Khanba22/leetcode/tree/master/0068-text-justification) |
+| [0075-sort-colors](https://github.com/Khanba22/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Khanba22/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Khanba22/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Khanba22/leetcode/tree/master/0130-surrounded-regions) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Khanba22/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Khanba22/leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Khanba22/leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Khanba22/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/Khanba22/leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Khanba22/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Khanba22/leetcode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Khanba22/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Khanba22/leetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Khanba22/leetcode/tree/master/0164-maximum-gap) |
