@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Khanba22/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Khanba22/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Khanba22/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3314-most-frequent-prime](https://github.com/Khanba22/leetcode/tree/master/3314-most-frequent-prime) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Khanba22/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Khanba22/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Khanba22/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/Khanba22/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Khanba22/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Khanba22/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3314-most-frequent-prime](https://github.com/Khanba22/leetcode/tree/master/3314-most-frequent-prime) |
 | [3548-find-the-count-of-good-integers](https://github.com/Khanba22/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Khanba22/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Khanba22/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/Khanba22/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/Khanba22/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Khanba22/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3314-most-frequent-prime](https://github.com/Khanba22/leetcode/tree/master/3314-most-frequent-prime) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Khanba22/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3548-find-the-count-of-good-integers](https://github.com/Khanba22/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Khanba22/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/Khanba22/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Khanba22/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Khanba22/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3314-most-frequent-prime](https://github.com/Khanba22/leetcode/tree/master/3314-most-frequent-prime) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Khanba22/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Khanba22/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Combinatorics
@@ -646,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Khanba22/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Khanba22/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Khanba22/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3314-most-frequent-prime](https://github.com/Khanba22/leetcode/tree/master/3314-most-frequent-prime) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Khanba22/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Khanba22/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Topological Sort
@@ -736,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/Khanba22/leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Khanba22/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Khanba22/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3314-most-frequent-prime](https://github.com/Khanba22/leetcode/tree/master/3314-most-frequent-prime) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Khanba22/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
 |  |
@@ -775,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Khanba22/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2339-k-divisible-elements-subarrays](https://github.com/Khanba22/leetcode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2998-count-symmetric-integers](https://github.com/Khanba22/leetcode/tree/master/2998-count-symmetric-integers) |
+| [3314-most-frequent-prime](https://github.com/Khanba22/leetcode/tree/master/3314-most-frequent-prime) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Khanba22/leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3548-find-the-count-of-good-integers](https://github.com/Khanba22/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 ## Binary Search Tree
