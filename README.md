@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/Khanba22/leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Khanba22/leetcode/tree/master/0062-unique-paths) |
+| [0263-ugly-number](https://github.com/Khanba22/leetcode/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/Khanba22/leetcode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Khanba22/leetcode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Khanba22/leetcode/tree/master/0367-valid-perfect-square) |
