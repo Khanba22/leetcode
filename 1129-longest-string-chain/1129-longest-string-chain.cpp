@@ -1,7 +1,7 @@
 class Solution {
 public:
     int longestStrChain(vector<string>& words) {
-        unordered_map<std::string, int> chains;
+        unordered_map<string, int> chains;
         vector<string> sortedWords = words;
         sort(sortedWords.begin(), sortedWords.end(), [](string& a,string& b) {
             return a.length() < b.length(); 
