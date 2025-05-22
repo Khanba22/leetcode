@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Khanba22/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/Khanba22/leetcode/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Khanba22/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1129-longest-string-chain](https://github.com/Khanba22/leetcode/tree/master/1129-longest-string-chain) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Khanba22/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Khanba22/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Khanba22/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Khanba22/leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Khanba22/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1086-divisor-game](https://github.com/Khanba22/leetcode/tree/master/1086-divisor-game) |
+| [1129-longest-string-chain](https://github.com/Khanba22/leetcode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Khanba22/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Khanba22/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Khanba22/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Khanba22/leetcode/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/Khanba22/leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Khanba22/leetcode/tree/master/0868-push-dominoes) |
+| [1129-longest-string-chain](https://github.com/Khanba22/leetcode/tree/master/1129-longest-string-chain) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/Khanba22/leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Khanba22/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Khanba22/leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Khanba22/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Khanba22/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/Khanba22/leetcode/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
+| [1129-longest-string-chain](https://github.com/Khanba22/leetcode/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/Khanba22/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Khanba22/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Khanba22/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -436,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Khanba22/leetcode/tree/master/0868-push-dominoes) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Khanba22/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Khanba22/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1129-longest-string-chain](https://github.com/Khanba22/leetcode/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/Khanba22/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Khanba22/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Khanba22/leetcode/tree/master/1250-longest-common-subsequence) |
@@ -692,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Khanba22/leetcode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Khanba22/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Khanba22/leetcode/tree/master/0455-assign-cookies) |
+| [1129-longest-string-chain](https://github.com/Khanba22/leetcode/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/Khanba22/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Khanba22/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Khanba22/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
