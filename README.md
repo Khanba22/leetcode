@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Khanba22/leetcode/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Khanba22/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Khanba22/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0932-monotonic-array](https://github.com/Khanba22/leetcode/tree/master/0932-monotonic-array) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/Khanba22/leetcode/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Khanba22/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1129-longest-string-chain](https://github.com/Khanba22/leetcode/tree/master/1129-longest-string-chain) |
