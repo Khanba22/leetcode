@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Khanba22/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Khanba22/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Khanba22/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/Khanba22/leetcode/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/Khanba22/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Khanba22/leetcode/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Khanba22/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Khanba22/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Khanba22/leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Khanba22/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0143-reorder-list](https://github.com/Khanba22/leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Khanba22/leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Khanba22/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Khanba22/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/Khanba22/leetcode/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Khanba22/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/Khanba22/leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Khanba22/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Khanba22/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/Khanba22/leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -755,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Khanba22/leetcode/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/Khanba22/leetcode/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/Khanba22/leetcode/tree/master/0143-reorder-list) |
 | [2050-count-good-numbers](https://github.com/Khanba22/leetcode/tree/master/2050-count-good-numbers) |
 ## Ordered Set
 |  |
