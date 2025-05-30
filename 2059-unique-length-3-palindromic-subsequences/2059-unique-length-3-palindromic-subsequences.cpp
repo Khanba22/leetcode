@@ -16,10 +16,8 @@ public:
             if (minIdx[i] != -1 && minIdx[i] < maxIdx[i]) {
                 vector<bool> seen(26, false);
                 for (int j = minIdx[i] + 1; j < maxIdx[i]; j++) {
-                    if (!seen[s[j] - 'a']) {
-                        seen[s[j] - 'a'] = true;
-                        res++;
-                    }
+                    res = res + !(seen[s[j] - 'a']);
+                    seen[s[j] - 'a'] = true;
                 }
             }
         }
