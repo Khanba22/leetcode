@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/Khanba22/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Khanba22/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2339-k-divisible-elements-subarrays](https://github.com/Khanba22/leetcode/tree/master/2339-k-divisible-elements-subarrays) |
+| [2358-number-of-ways-to-split-array](https://github.com/Khanba22/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Khanba22/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Khanba22/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/Khanba22/leetcode/tree/master/2478-longest-nice-subarray) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/Khanba22/leetcode/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/Khanba22/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/Khanba22/leetcode/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/Khanba22/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Khanba22/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/Khanba22/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Khanba22/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
